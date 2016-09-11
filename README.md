@@ -6,6 +6,13 @@ This is the second application for the
 [*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
 
+
+### To run the server on the ide
+
+```
+rails server -b $IP -p $PORT
+```
+
 ## Heroku installation
 
 Don't forget to modify the `root` of your rail application.
