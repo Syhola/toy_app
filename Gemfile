@@ -31,5 +31,8 @@ gem 'bootstrap-sass', '3.3.6'
 # Testing
 gem 'rails-controller-testing'
 
+# Secure password
+gem 'bcrypt', '3.1.11'
+
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
